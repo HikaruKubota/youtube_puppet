@@ -1,0 +1,16 @@
+{
+  "name": "gamewith_pokepoke_puppet",
+  "version": "1.0.0",
+  "description": "command",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.10.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
